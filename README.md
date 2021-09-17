@@ -6,7 +6,7 @@ I've started coding in 2018 at high school and didn't stop since then, nice to m
 
 - __Area:__ I prefer backend, but I go wherever is needed
 - __Age:__ 18
-- __University:__ Federal University of São Carlos (UFSCar) - CompSci degree
+- __University:__ Federal University of São Carlos (UFSCar) - CompSci
 
 ## Stack
 <div style="display: inline_block">
