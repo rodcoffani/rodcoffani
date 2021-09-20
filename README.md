@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Rodrigo Coffani and Im a brazilian dev.
+My name is Rodrigo Coffani and I'm a brazilian dev.
 
-I've started coding in 2018 at high school and didn't stop since then, nice to meet you!
+I've started coding in 2018 in high school and didn't stop since then, nice to meet you!
 
 - __Area:__ I prefer backend, but I go wherever is needed
 - __Age:__ 18
