@@ -21,9 +21,11 @@ I've started coding in 2018 in high school and didn't stop since then, nice to m
 </div>
 
 ## Stats
-<div>
-  <a href="https://github.com/rodcoffani" style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-around">
+  <a href="https://github.com/rodcoffani">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodcoffani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/rodcoffani">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcoffani&layout=compact&langs_count=6&theme=dracula"/>
   </a>
 </div>
