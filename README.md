@@ -4,7 +4,7 @@ My name is Rodrigo Coffani and I'm a brazilian dev.
 
 I've started coding in 2018 in high school and didn't stop since then, nice to meet you!
 
-- __Area:__ I prefer backend, but I go wherever is needed
+- __Area:__ Fullstack, i have a preference for backend
 - __Age:__ 18
 - __College:__ Federal University of São Carlos (UFSCar) - CompSci
 
