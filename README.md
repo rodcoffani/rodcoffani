@@ -1,11 +1,19 @@
 ## Hi there 👋
 
+![Visitors](https://komarev.com/ghpvc/?username=rodcoffani&color=blue)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/rodrigo-coffani-b03951186/)
+[![GitHub followers](https://img.shields.io/github/followers/rodcoffani.svg?style=social&label=Follow)](https://github.com/rodcoffani?tab=followers)
+
+###
+
+## About me
+
 My name is Rodrigo Coffani and I'm a brazilian dev.
 
 I've started coding in 2018 in high school and didn't stop since then, nice to meet you!
 
-- __Area:__ Fullstack, i have a preference for backend
-- __Age:__ 18
+- __Area:__ Fullstack
+- __Age:__ 19
 - __College:__ Federal University of São Carlos (UFSCar) - CompSci
 
 ## Stack
