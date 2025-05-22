@@ -9,7 +9,6 @@
 ## About me
 
 - __Area:__ Fullstack (backend+)
-- __Age:__ 21
 - __College:__ Federal University of São Carlos (UFSCar) - CompSci
 
 ## Stack
@@ -20,11 +19,10 @@
   <img align="center" alt="React JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Mongo DB" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Node JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="PHP Laravel" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
   <img align="center" alt="Mongo DB" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Postgres SQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="VS Code" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ## Stats
