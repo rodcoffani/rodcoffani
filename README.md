@@ -8,10 +8,11 @@
 
 ## About me
 
-- __Area:__ Web Dev Fullstack (backend+)
+- __Area:__ Web Dev Fullstack
 - __University:__ Federal University of São Carlos (UFSCar) - CompSci
+- __Working at:__ CERN
 
-## Stack
+## Favorite stack
 <div style="display: inline_block">
   <img align="center" alt="Typescript" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vue JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -25,7 +26,7 @@
 
 ## Stats
 <div style="display: flex; justify-content: space-around">
-  <a href="https://github.com/rodcoffani"><img height=180 src="https://github-readme-stats.vercel.app/api?username=rodcoffani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/></a>
-  <a href="https://github.com/rodcoffani"><img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcoffani&layout=compact&langs_count=6&theme=dracula"/>
+  <a href="https://github.com/rodcoffani"><img height=160 src="https://github-readme-stats.vercel.app/api?username=rodcoffani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/></a>
+  <a href="https://github.com/rodcoffani"><img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcoffani&layout=compact&langs_count=6&theme=dracula"/>
   </a>
 </div>
