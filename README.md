@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=rodcoffani&color=cba6f7&style=flat&abbreviated=true)
 [![GitHub followers](https://img.shields.io/github/followers/rodcoffani.svg?style=flat&label=Follow&color=f38ba8)](https://github.com/rodcoffani?tab=followers)
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=89b4fa&labelColor=1e1e2e&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/rodrigo-coffani-b03951186/)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=89b4fa&labelColor=1e1e2e&logoColor=white&labelColor=&style=for-the-badge)">](https://www.linkedin.com/in/rcoff/)
 
 ###
 
