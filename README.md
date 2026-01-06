@@ -27,7 +27,7 @@
 
 ## Stats
 <div style="display: flex; justify-content: space-around">
-  <a href="https://github.com/rodcoffani"><img height=160 src="https://github-readme-stats.vercel.app/api?username=rodcoffani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/></a>
-  <a href="https://github.com/rodcoffani"><img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodcoffani&layout=compact&langs_count=6&theme=dracula"/>
+  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/stats.svg"/></a>
+  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/top-langs.svg"/>
   </a>
 </div>
