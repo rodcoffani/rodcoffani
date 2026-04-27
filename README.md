@@ -10,19 +10,18 @@
 ## About me
 
 - __Area:__ Web Dev Fullstack
-- __University:__ Federal University of São Carlos (UFSCar) - CompSci
-- __Working at:__ CERN
+- __University:__ Federal University of São Carlos (UFSCar) - BSc, CompSci
 
 ## Favorite stack
-<div style="display: inline_block">
-  <img align="center" alt="Typescript" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vue JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React JS" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Golang" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="PHP" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="PHP Laravel" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Mongo DB" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Postgres SQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+<div style="display: inline_block;">
+  <img align="center" alt="Typescript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vue JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="React JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Golang" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="PHP Laravel" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Mongo DB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Postgres SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
 ## Stats
