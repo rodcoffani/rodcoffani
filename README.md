@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=logmein&label=&color=89b4fa&labelColor=1e1e2e&logoColor=white&labelColor=&style=flat)](https://www.linkedin.com/in/rcoff/)
 [![Patos blog](https://img.shields.io/badge/PATOS_Blog-a6e3a1?style=flat&logo=duckduckgo&logoColor=000)](https://patos.dev)
 
-###
-
 ## About me
 
 - __Area:__ Web Dev Fullstack
@@ -24,9 +22,13 @@
   <img align="center" alt="Postgres SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
+## Certifications
+<div style="display: flex; justify-content: space-around">
+  <a href="https://github.com/rodcoffani"><img height=128 src="./profile/kcna-kubernetes-and-cloud-native-associate.png"></a>
+</div>
+
 ## Stats
 <div style="display: flex; justify-content: space-around">
-  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/stats.svg"/></a>
-  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/top-langs.svg"/>
-  </a>
+  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/stats.svg"></a>
+  <a href="https://github.com/rodcoffani"><img height=160 src="./profile/top-langs.svg"></a>
 </div>
